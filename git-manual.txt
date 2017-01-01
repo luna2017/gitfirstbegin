@@ -1,0 +1,2 @@
+git add readme.txt   添加到仓库
+$ git commit -m "append GPL"   提交
