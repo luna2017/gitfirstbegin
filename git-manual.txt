@@ -1,2 +1,13 @@
 git add readme.txt   添加到仓库
-$ git commit -m "append GPL"   提交
+ git commit -m "append GPL"   提交
+git log 查看版本之间的不同 
+git status  查看是否做了修改
+git reset --hard HEAD^   回退到前一个版本
+
+git log --pretty=oneline  查看版本号
+
+git reset --hard 362816 回退到某一个版本
+
+git reflog 查看你一共的版本  恢复到已经删除的版本
+
+
